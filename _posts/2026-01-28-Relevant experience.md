@@ -42,7 +42,7 @@ date: 2026-01-28
 </details>
 
 <details>
-<summary>08/07/2025 [from EN to ru, theme: MACHINERY (ELECTRICAL SYSTEMS)] Chiller operating manual</summary>
+<summary>08/07/2022 [from EN to ru, theme: MACHINERY (ELECTRICAL SYSTEMS)] Chiller operating manual</summary>
 
 > *Context: Industrial equipment manual — safety-critical section requiring precise terminology and adherence to standards.*
 
@@ -85,4 +85,37 @@ date: 2026-01-28
    Во время подачи предупреждения или отключения устройства сигнальные клеммы J4-1 и J4-2 включаются, клеммы J4-1 и J4-3 выключаются.
 </details>
 
-[^1]:> *Note: These fragments is anonymized and used solely for illustrative purposes in demonstrating academic background relevant to linguistic precision, domain knowledge, and structured data handling.*
+<details>
+<summary>08/07/2022 [from RU to en, theme: LAW] Legal Ownsership of a corporation based in Austria</summary>
+
+#### Оригинал
+
+Конечным бенефициаром [Название частного фонда] при жизни является физическое лицо, проживающее в Вене, Австрия, а также его биологические потомки.
+
+Дополнительными бенефициарами [Название частного фонда] могут быть назначены:
+•	Физическое лицо A, проживающее в Вене, Австрия  
+•	Физическое лицо B, проживающее в Вене, Австрия  
+•	Физическое лицо C, проживающее в Вене, Австрия  
+•	Физическое лицо D, проживающее в федеральной земле Бургенланд, Австрия  
+•	Физические лица E и F, проживающие в Рочестере, штат Миннесота, США  
+•	Физическое лицо G, проживающее в Вене, Австрия  
+•	Физическое лицо H, проживающее в Вене, Австрия  
+
+«Privatstiftung» (частный фонд) по австрийскому законодательству представляет собой юридическое лицо, которому учредитель передаёт имущество для достижения разрешённой цели, определённой учредителем, посредством использования, управления и распоряжения этим имуществом. Основной характеристикой частного фонда является отсутствие юридического владельца, вследствие чего невозможно установить пропорциональную косвенную собственность каких-либо физических лиц.
+
+#### Перевод
+The ultimate beneficiary of [Private Foundation Name] is during their lifetime an individual residing in Vienna, Austria, as well as their biological descendants.
+
+As further beneficiaries of [Private Foundation Name] may be nominated:
+•	Individual A, residing in Vienna, Austria  
+•	Individual B, residing in Vienna, Austria  
+•	Individual C, residing in Vienna, Austria  
+•	Individual D, residing in Burgenland, Austria  
+•	Individuals E and F, residing in Rochester, Minnesota, USA  
+•	Individual G, residing in Vienna, Austria  
+•	Individual H, residing in Vienna, Austria  
+
+A “Privatstiftung” (private foundation) under Austrian law is a legal entity to which the founder donates assets in order to serve—through their use, administration, and exploitation—a permitted purpose determined by the founder. The main characteristic of a private foundation is that it has no legal owner; consequently, proportional indirect ownership by any individual cannot be determined.
+</details>
+
+[^1]:> *Note: These fragments are anonymized and used solely for illustrative purposes in demonstrating academic background relevant to linguistic precision, domain knowledge, and structured data handling.*
