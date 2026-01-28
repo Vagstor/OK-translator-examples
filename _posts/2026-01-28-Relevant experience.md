@@ -4,7 +4,7 @@ date: 2026-01-28
 ---
 
 ### Included here are references to translation memories, projects and glossaries used througout my 4 year journey. All anonymized — we respect our clients and their identity! [^1]
-<details>
+<details markdown="1">
 <summary>02/07/2025 [from EN to ru, theme: ACADEMIC] The University of Bamenda student transcript</summary>
 #### **First Semester Transcript**
 
@@ -41,7 +41,7 @@ date: 2026-01-28
 |         |                                               |         |         |       | **СРЕДНИЙ БАЛЛ ЗА ПЕРВЫЙ СЕМЕСТР:** | **2.57**         |
 </details>
 
-<details>
+<details markdown="1">
 <summary>08/07/2022 [from EN to ru, theme: MACHINERY (ELECTRICAL SYSTEMS)] Chiller operating manual</summary>
 
 > *Context: Industrial equipment manual — safety-critical section requiring precise terminology and adherence to standards.*
@@ -85,7 +85,7 @@ date: 2026-01-28
    Во время подачи предупреждения или отключения устройства сигнальные клеммы J4-1 и J4-2 включаются, клеммы J4-1 и J4-3 выключаются.
 </details>
 
-<details>
+<details markdown="1">
 <summary>08/07/2022 [from RU to en, theme: LAW] Legal Ownsership of a corporation based in Austria</summary>
 
 #### Оригинал
