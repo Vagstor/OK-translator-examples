@@ -4,6 +4,7 @@ date: 2026-01-28
 ---
 
 ### Included here are references to translation memories, projects and glossaries used througout my 4 year journey. All anonymized — we respect our clients and their identity! [^1]
+
 <details markdown="1">
    
 <summary>02/07/2025 [from EN to ru, theme: ACADEMIC] The University of Bamenda student transcript</summary>
@@ -42,14 +43,17 @@ date: 2026-01-28
 | BKF303  | Основы управления инвестициями               | 2       | 62.00   | B     | 3.00           | 6.00             |
 | **ИТОГО** | —                                          | **30**  | —       | —     | **25.50**      | **77.00**        |
 |         |                                               |         |         |       | **СРЕДНИЙ БАЛЛ ЗА ПЕРВЫЙ СЕМЕСТР:** | **2.57**         |
+
 </details>
 
 <details markdown="1">
+
 <summary>08/07/2022 [from EN to ru, theme: MACHINERY (ELECTRICAL SYSTEMS)] Chiller operating manual</summary>
 
 > *Context: Industrial equipment manual — safety-critical section requiring precise terminology and adherence to standards.*
 
----
+   ---
+   
 ### Original (EN)
 
 ### 4.3 Electric wiring:
@@ -69,6 +73,7 @@ date: 2026-01-28
    During alarm or shutdown, signal terminals J4-1 and J4-2 are switched on and terminals J4-1 and J4-3 switched off.
 
 ---
+
 ### Перевод
 
 > **Контекст**: Руководство по эксплуатации оборудования класса B; требует строгой терминологической согласованности, корректной передачи стандартов (IEC, ГОСТ), и точного отражения логических условий («во время…», «должны быть…»). Структура оригинального фрагмента также была отредактирована для более точного и строгого стиля.
@@ -98,6 +103,7 @@ date: 2026-01-28
 <summary>08/07/2022 [from RU to en, theme: LAW] Legal Ownsership of a corporation based in Austria</summary>
 
    ---
+   
    ### Оригинал
 
 Конечным бенефициаром [Название частного фонда] при жизни является физическое лицо, проживающее в Вене, Австрия, а также его биологические потомки.
@@ -114,6 +120,7 @@ date: 2026-01-28
 «Privatstiftung» (частный фонд) по австрийскому законодательству представляет собой юридическое лицо, которому учредитель передаёт имущество для достижения разрешённой цели, определённой учредителем, посредством использования, управления и распоряжения этим имуществом. Основной характеристикой частного фонда является отсутствие юридического владельца, вследствие чего невозможно установить пропорциональную косвенную собственность каких-либо физических лиц.
    
    ---
+   
    ### Перевод
 The ultimate beneficiary of [Private Foundation Name] is during their lifetime an individual residing in Vienna, Austria, as well as their biological descendants.
 
