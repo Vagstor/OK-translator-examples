@@ -6,7 +6,9 @@ date: 2026-01-28
 ### Included here are references to translation memories, projects and glossaries used througout my 4 year journey. All anonymized — we respect our clients and their identity! [^1]
 <details markdown="1">
 <summary>02/07/2025 [from EN to ru, theme: ACADEMIC] The University of Bamenda student transcript</summary>
-#### **First Semester Transcript**
+
+   ---
+   ### First Semester Transcript
 
 | CODE    | TITLE                                      | CREDIT | MARK  | GRADE | GRADE POINT | WEIGHTED POINT |
 |---------|--------------------------------------------|--------|-------|-------|-------------|----------------|
@@ -22,8 +24,8 @@ date: 2026-01-28
 | BKF303  | Fundamentals of Investment Management      | 2      | 62.00 | B     | 3.00        | 6.00           |
 | **TOTAL** | —                                        | **30** | —     | —     | **25.50**   | **77.00**      |
 |         |                                            |        |       |       | **FIRST SEMESTER GPA:** | **2.57** |
-
-#### Перевод учебного плана (1-й семестр)
+   ---
+   ### Перевод учебного плана (1-й семестр)
 
 | КОД     | ЗАГОЛОВОК                                      | КРЕДИТЫ | БАЛЛЫ | ОТМЕТКА | ОЦЕНОЧНЫЙ БАЛЛ | ВЗВЕШЕННЫЙ БАЛЛ |
 |---------|-----------------------------------------------|---------|---------|-------|----------------|------------------|
@@ -46,7 +48,8 @@ date: 2026-01-28
 
 > *Context: Industrial equipment manual — safety-critical section requiring precise terminology and adherence to standards.*
 
-##### Original (EN)
+---
+### Original (EN)
 1. The wires shall be connected according to the wire marker on the machine.  
 2. Recommended standard of power supply path  
    | Power line diameter mm² (copper wire) | 0.75 | 1.0 | 1.5 | 2.5 | 4 | 6 | 10 | 16 | 25 | 35 | 50 |
@@ -61,11 +64,12 @@ date: 2026-01-28
    During normal working, signal terminals J4-1 and J4-2 are switched off and terminals J4-1 and J4-3 switched on.  
    During alarm or shutdown, signal terminals J4-1 and J4-2 are switched on and terminals J4-1 and J4-3 switched off.
 
-#### Перевод
+---
+### Перевод
 
 > **Контекст**: Руководство по эксплуатации оборудования класса B; требует строгой терминологической согласованности, корректной передачи стандартов (IEC, ГОСТ), и точного отражения логических условий («во время…», «должны быть…»). Структура оригинального фрагмента также была отредактирована для более точного и строгого стиля.
 
-##### 4.3 Устройство электрических соединений:
+### 4.3 Устройство электрических соединений:
 
 1. Подсоедините провода в соответствии с маркировкой.  
 2. Рекомендуемый стандарт подключения источника питания  
@@ -88,7 +92,8 @@ date: 2026-01-28
 <details markdown="1">
 <summary>08/07/2022 [from RU to en, theme: LAW] Legal Ownsership of a corporation based in Austria</summary>
 
-#### Оригинал
+   ---
+   ### Оригинал
 
 Конечным бенефициаром [Название частного фонда] при жизни является физическое лицо, проживающее в Вене, Австрия, а также его биологические потомки.
 
@@ -102,8 +107,9 @@ date: 2026-01-28
 •	Физическое лицо H, проживающее в Вене, Австрия  
 
 «Privatstiftung» (частный фонд) по австрийскому законодательству представляет собой юридическое лицо, которому учредитель передаёт имущество для достижения разрешённой цели, определённой учредителем, посредством использования, управления и распоряжения этим имуществом. Основной характеристикой частного фонда является отсутствие юридического владельца, вследствие чего невозможно установить пропорциональную косвенную собственность каких-либо физических лиц.
-
-#### Перевод
+   
+   ---
+   ### Перевод
 The ultimate beneficiary of [Private Foundation Name] is during their lifetime an individual residing in Vienna, Austria, as well as their biological descendants.
 
 As further beneficiaries of [Private Foundation Name] may be nominated:
@@ -116,6 +122,14 @@ As further beneficiaries of [Private Foundation Name] may be nominated:
 •	Individual H, residing in Vienna, Austria  
 
 A “Privatstiftung” (private foundation) under Austrian law is a legal entity to which the founder donates assets in order to serve—through their use, administration, and exploitation—a permitted purpose determined by the founder. The main characteristic of a private foundation is that it has no legal owner; consequently, proportional indirect ownership by any individual cannot be determined.
+</details>
+
+<details>
+
+<summary>Linguistic assets formed over the years</summary>
+
+
+
 </details>
 
 [^1]:> *Note: These fragments are anonymized and used solely for illustrative purposes in demonstrating academic background relevant to linguistic precision, domain knowledge, and structured data handling.*
