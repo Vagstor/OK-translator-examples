@@ -9,8 +9,9 @@ date: 2026-01-28
    
 <summary>02/07/2025 [from EN to ru, theme: ACADEMIC] The University of Bamenda student transcript</summary>
 
-   ---
-   ### First Semester Transcript
+---
+
+### First Semester Transcript
 
 
 | CODE    | TITLE                                      | CREDIT | MARK  | GRADE | GRADE POINT | WEIGHTED POINT |
@@ -28,8 +29,9 @@ date: 2026-01-28
 | **TOTAL** | —                                        | **30** | —     | —     | **25.50**   | **77.00**      |
 |         |                                            |        |       |       | **FIRST SEMESTER GPA:** | **2.57** |
   
-   ---
-   ### Перевод учебного плана (1-й семестр)
+---
+
+### Перевод учебного плана (1-й семестр)
 
 | КОД     | ЗАГОЛОВОК                                      | КРЕДИТЫ | БАЛЛЫ | ОТМЕТКА | ОЦЕНОЧНЫЙ БАЛЛ | ВЗВЕШЕННЫЙ БАЛЛ |
 |---------|-----------------------------------------------|---------|---------|-------|----------------|------------------|
@@ -108,8 +110,8 @@ date: 2026-01-28
 
    ---
    
-   ### Оригинал
-
+### Оригинал
+   
 Конечным бенефициаром [Название частного фонда] при жизни является физическое лицо, проживающее в Вене, Австрия, а также его биологические потомки.
 
 Дополнительными бенефициарами [Название частного фонда] могут быть назначены:
@@ -125,7 +127,8 @@ date: 2026-01-28
    
    ---
    
-   ### Перевод
+### Перевод
+   
 The ultimate beneficiary of [Private Foundation Name] is during their lifetime an individual residing in Vienna, Austria, as well as their biological descendants.
 
 As further beneficiaries of [Private Foundation Name] may be nominated:
@@ -144,11 +147,11 @@ A “Privatstiftung” (private foundation) under Austrian law is a legal entity
 
 <summary>Linguistic assets formed over the years</summary>
 
-![Пример фрагмента TM](/OK-translator-examples/blob/main/TM1.png)
+![Пример фрагмента TM](/TM1.png)
 
-![Пример фрагмента TM](/OK-translator-examples/blob/main/TM2.png)
+![Пример фрагмента TM](/TM2.png)
 
-![Пример фрагмента TM](/OK-translator-examples/blob/main/glossary1.png)
+![Пример фрагмента TM](/glossary1.png)
 
 </details>
 
