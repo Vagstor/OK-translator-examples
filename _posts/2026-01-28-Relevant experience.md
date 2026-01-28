@@ -143,7 +143,7 @@ As further beneficiaries of [Private Foundation Name] may be nominated:
 A “Privatstiftung” (private foundation) under Austrian law is a legal entity to which the founder donates assets in order to serve—through their use, administration, and exploitation—a permitted purpose determined by the founder. The main characteristic of a private foundation is that it has no legal owner; consequently, proportional indirect ownership by any individual cannot be determined.
 </details>
 
-<details>
+<details markdown="1">
 
 <summary>Linguistic assets formed over the years</summary>
 
