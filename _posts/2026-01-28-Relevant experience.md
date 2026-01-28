@@ -12,6 +12,7 @@ date: 2026-01-28
    ---
    ### First Semester Transcript
 
+
 | CODE    | TITLE                                      | CREDIT | MARK  | GRADE | GRADE POINT | WEIGHTED POINT |
 |---------|--------------------------------------------|--------|-------|-------|-------------|----------------|
 | MGT301  | Small Business Management                  | 4      | 53.50 | C     | 2.00        | 8.00           |
@@ -26,6 +27,7 @@ date: 2026-01-28
 | BKF303  | Fundamentals of Investment Management      | 2      | 62.00 | B     | 3.00        | 6.00           |
 | **TOTAL** | —                                        | **30** | —     | —     | **25.50**   | **77.00**      |
 |         |                                            |        |       |       | **FIRST SEMESTER GPA:** | **2.57** |
+  
    ---
    ### Перевод учебного плана (1-й семестр)
 
@@ -59,16 +61,18 @@ date: 2026-01-28
 ### 4.3 Electric wiring:
 
 1. The wires shall be connected according to the wire marker on the machine.  
-2. Recommended standard of power supply path  
+2. Recommended standard of power supply path
+   
    | Power line diameter mm² (copper wire) | 0.75 | 1.0 | 1.5 | 2.5 | 4 | 6 | 10 | 16 | 25 | 35 | 50 |
    |-----------------------------------------|------|-----|-----|-----|---|---|----|----|----|----|----|
    | Current-carrying capacity (A)           | 8.5  |10.3 |13.5 |18.3 |24 |31 | 44 | 65 | 85 |105 |125 |
+   
    • The data is provided according to IEC 60204-1 laid with ambient 40 °C B1; data above are for reference only.  
    • Power lines shall conform to national standards (GBs).  
    • For rated current of the cooler, please refer to the nameplate.  
-3. The main circuit of the power supply shall be equipped with electric leakage and overload protection device and the device should be grounded properly.  
-4. The allowed voltage fluctuation of the power supply should be less than ±10%; frequency fluctuation should be less than ±1 Hz. The power supply shall be kept away from electromagnetic interference.  
-5. Connection of signal terminals (applicable to standard models)  
+4. The main circuit of the power supply shall be equipped with electric leakage and overload protection device and the device should be grounded properly.  
+5. The allowed voltage fluctuation of the power supply should be less than ±10%; frequency fluctuation should be less than ±1 Hz. The power supply shall be kept away from electromagnetic interference.  
+6. Connection of signal terminals (applicable to standard models)  
    During normal working, signal terminals J4-1 and J4-2 are switched off and terminals J4-1 and J4-3 switched on.  
    During alarm or shutdown, signal terminals J4-1 and J4-2 are switched on and terminals J4-1 and J4-3 switched off.
 
@@ -140,7 +144,11 @@ A “Privatstiftung” (private foundation) under Austrian law is a legal entity
 
 <summary>Linguistic assets formed over the years</summary>
 
+![Пример фрагмента TM](/OK-translator-examples/blob/main/TM1.png)
 
+![Пример фрагмента TM](/OK-translator-examples/blob/main/TM2.png)
+
+![Пример фрагмента TM](/OK-translator-examples/blob/main/glossary1.png)
 
 </details>
 
