@@ -5,6 +5,7 @@ date: 2026-01-28
 
 ### Included here are references to translation memories, projects and glossaries used througout my 4 year journey. All anonymized — we respect our clients and their identity! [^1]
 <details markdown="1">
+   
 <summary>02/07/2025 [from EN to ru, theme: ACADEMIC] The University of Bamenda student transcript</summary>
 
    ---
@@ -90,6 +91,7 @@ date: 2026-01-28
 </details>
 
 <details markdown="1">
+   
 <summary>08/07/2022 [from RU to en, theme: LAW] Legal Ownsership of a corporation based in Austria</summary>
 
    ---
